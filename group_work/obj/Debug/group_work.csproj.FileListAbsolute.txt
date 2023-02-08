@@ -1,0 +1,42 @@
+C:\Users\Dennis\Desktop\group_work\bin\group_work.dll.config
+C:\Users\Dennis\Desktop\group_work\bin\group_work.dll
+C:\Users\Dennis\Desktop\group_work\bin\group_work.pdb
+C:\Users\Dennis\Desktop\group_work\obj\Debug\group_work.csprojAssemblyReference.cache
+C:\Users\Dennis\Desktop\group_work\obj\Debug\group_work.csproj.CoreCompileInputs.cache
+C:\Users\Dennis\Desktop\group_work\obj\Debug\group_work.dll
+C:\Users\Dennis\Desktop\group_work\obj\Debug\group_work.pdb
+C:\Users\Masindi T\Desktop\ifm2\group_work\bin\group_work.dll.config
+C:\Users\Masindi T\Desktop\ifm2\group_work\bin\group_work.dll
+C:\Users\Masindi T\Desktop\ifm2\group_work\bin\group_work.pdb
+C:\Users\Masindi T\Desktop\ifm2\group_work\obj\Debug\group_work.csprojAssemblyReference.cache
+C:\Users\Masindi T\Desktop\ifm2\group_work\obj\Debug\group_work.csproj.CoreCompileInputs.cache
+C:\Users\Masindi T\Desktop\ifm2\group_work\obj\Debug\group_work.dll
+C:\Users\Masindi T\Desktop\ifm2\group_work\obj\Debug\group_work.pdb
+C:\Users\Dennis\Desktop\webgeek\webgeek\group_work\bin\group_work.dll.config
+C:\Users\Dennis\Desktop\webgeek\webgeek\group_work\bin\group_work.dll
+C:\Users\Dennis\Desktop\webgeek\webgeek\group_work\bin\group_work.pdb
+C:\Users\Dennis\Desktop\webgeek\webgeek\group_work\obj\Debug\group_work.csprojAssemblyReference.cache
+C:\Users\Dennis\Desktop\webgeek\webgeek\group_work\obj\Debug\group_work.csproj.CoreCompileInputs.cache
+C:\Users\Dennis\Desktop\webgeek\webgeek\group_work\obj\Debug\group_work.dll
+C:\Users\Dennis\Desktop\webgeek\webgeek\group_work\obj\Debug\group_work.pdb
+C:\Users\Dennis\VisualStudioProjects\GroupProject\webgeek\group_work\bin\group_work.dll.config
+C:\Users\Dennis\VisualStudioProjects\GroupProject\webgeek\group_work\bin\group_work.dll
+C:\Users\Dennis\VisualStudioProjects\GroupProject\webgeek\group_work\bin\group_work.pdb
+C:\Users\Dennis\VisualStudioProjects\GroupProject\webgeek\group_work\obj\Debug\group_work.csprojAssemblyReference.cache
+C:\Users\Dennis\VisualStudioProjects\GroupProject\webgeek\group_work\obj\Debug\group_work.csproj.CoreCompileInputs.cache
+C:\Users\Dennis\VisualStudioProjects\GroupProject\webgeek\group_work\obj\Debug\group_work.dll
+C:\Users\Dennis\VisualStudioProjects\GroupProject\webgeek\group_work\obj\Debug\group_work.pdb
+C:\Users\Sleazy\Downloads\GroupProject\GroupProject\webgeek\group_work\bin\group_work.dll.config
+C:\Users\Sleazy\Downloads\GroupProject\GroupProject\webgeek\group_work\bin\group_work.dll
+C:\Users\Sleazy\Downloads\GroupProject\GroupProject\webgeek\group_work\bin\group_work.pdb
+C:\Users\Sleazy\Downloads\GroupProject\GroupProject\webgeek\group_work\obj\Debug\group_work.csprojAssemblyReference.cache
+C:\Users\Sleazy\Downloads\GroupProject\GroupProject\webgeek\group_work\obj\Debug\group_work.csproj.CoreCompileInputs.cache
+C:\Users\Sleazy\Downloads\GroupProject\GroupProject\webgeek\group_work\obj\Debug\group_work.dll
+C:\Users\Sleazy\Downloads\GroupProject\GroupProject\webgeek\group_work\obj\Debug\group_work.pdb
+C:\school\webgeek\group_work\bin\group_work.dll.config
+C:\school\webgeek\group_work\bin\group_work.dll
+C:\school\webgeek\group_work\bin\group_work.pdb
+C:\school\webgeek\group_work\obj\Debug\group_work.csproj.AssemblyReference.cache
+C:\school\webgeek\group_work\obj\Debug\group_work.csproj.CoreCompileInputs.cache
+C:\school\webgeek\group_work\obj\Debug\group_work.dll
+C:\school\webgeek\group_work\obj\Debug\group_work.pdb
